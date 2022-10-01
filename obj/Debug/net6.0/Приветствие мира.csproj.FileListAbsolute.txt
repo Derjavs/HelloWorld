@@ -1,0 +1,15 @@
+C:\Users\пк\Desktop\Приветствие мира\bin\Debug\net6.0\Приветствие мира.exe
+C:\Users\пк\Desktop\Приветствие мира\bin\Debug\net6.0\Приветствие мира.deps.json
+C:\Users\пк\Desktop\Приветствие мира\bin\Debug\net6.0\Приветствие мира.runtimeconfig.json
+C:\Users\пк\Desktop\Приветствие мира\bin\Debug\net6.0\Приветствие мира.dll
+C:\Users\пк\Desktop\Приветствие мира\bin\Debug\net6.0\Приветствие мира.pdb
+C:\Users\пк\Desktop\Приветствие мира\obj\Debug\net6.0\Приветствие мира.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\Приветствие мира\obj\Debug\net6.0\Приветствие мира.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\Приветствие мира\obj\Debug\net6.0\Приветствие мира.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\Приветствие мира\obj\Debug\net6.0\Приветствие мира.AssemblyInfo.cs
+C:\Users\пк\Desktop\Приветствие мира\obj\Debug\net6.0\Приветствие мира.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Приветствие мира\obj\Debug\net6.0\Приветствие мира.dll
+C:\Users\пк\Desktop\Приветствие мира\obj\Debug\net6.0\refint\Приветствие мира.dll
+C:\Users\пк\Desktop\Приветствие мира\obj\Debug\net6.0\Приветствие мира.pdb
+C:\Users\пк\Desktop\Приветствие мира\obj\Debug\net6.0\Приветствие мира.genruntimeconfig.cache
+C:\Users\пк\Desktop\Приветствие мира\obj\Debug\net6.0\ref\Приветствие мира.dll
